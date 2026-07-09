@@ -2,7 +2,7 @@ import csv
 import requests
 import json
 
-API_KEY = "ENTER YOUR API KEY"
+API_KEY = "ENTER_YOUR_API_KEY_HERE"
 API_URL = "https://api.abuseipdb.com/api/v2/check"
 
 def check_ip(ip):
